@@ -1,0 +1,4 @@
+authHeader: X-auth
+authSalt: super-secret
+server:
+  rootPath: /api/*
