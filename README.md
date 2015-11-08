@@ -1,0 +1,1 @@
+Read more at: [http://jarbytes.com/jwt-on-dropwizard.html](http://jarbytes.com/jwt-on-dropwizard.html)
